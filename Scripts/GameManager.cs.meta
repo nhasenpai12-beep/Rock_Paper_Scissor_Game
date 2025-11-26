@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6312c3e708636db90beca9723ac2ef47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - txtResult: {instanceID: 0}
+  - txtScoreYou: {instanceID: 0}
+  - txtScoreCom: {instanceID: 0}
+  - imgYou: {instanceID: 0}
+  - imgCom: {instanceID: 0}
+  - rockSprite: {fileID: 21300000, guid: 7b6adc25632cba84db2ee9447a575799, type: 3}
+  - paperSprite: {fileID: 21300000, guid: 3f37b798ac24a684e806937c0a9ab700, type: 3}
+  - scissorsSprite: {fileID: 21300000, guid: 02082b6a2bc5e10b68fc223080a58c13, type: 3}
+  - defaultSprite: {fileID: 21300000, guid: 8cf2daf63de7a5ca0a7a4e721006e578, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
